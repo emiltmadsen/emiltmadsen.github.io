@@ -1,4 +1,4 @@
-Welcome to my website
+
 ======
 Inspired by people like [Daniel Miessler](https://danielmiessler.com/) and several guides(https://danielmiessler.com/blog/build-successful-infosec-career/, https://www.cyberstudents.org/blog-post/why-cybersecurity-students-should-blog-and-how-to-get-one-started/) which suggest you create a website/blog I finally decided to make one myself after a friend of mine showed me Jekyll. I was sold. It provides me with all my needs for a website/blog while being very easily accessible.
 
