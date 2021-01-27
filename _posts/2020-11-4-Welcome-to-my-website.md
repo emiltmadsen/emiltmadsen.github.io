@@ -14,3 +14,5 @@ I will use it to better myself, mostly in subjects about computer science and cy
 
 The website is gonna start out as my own little database of current projects, things I've done and resources I utilize(d).
 Hopefully at some point it will become helpful and useful for others as well.
+
+I will also use it for class, as requested by a teacher of mine.
