@@ -7,7 +7,7 @@ For each success story there is a couple of failures, in the IT field there is m
 and why they failed.
 
 **Google Glass**
-
+====
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Google_Glass_wearer.jpg/800px-A_Google_Glass_wearer.jpg)
 
 Google Glass technically hasn't failed yet, as they are still in production and as recent as 2019 announced a new edition (Google Glass Enterprise Edition 2), so this is more my subjective opinion.
