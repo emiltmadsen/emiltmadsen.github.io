@@ -6,7 +6,7 @@ title: Three Interesting Failures in IT History
 For each success story there is a couple of failures, in the IT field there is many of both. In this post I'm gonna talk about the three interesting failures (imo) 
 and why they failed.
 
-##Google Glass
+**Google Glass**
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Google_Glass_wearer.jpg/800px-A_Google_Glass_wearer.jpg)
 
@@ -29,7 +29,7 @@ If there is a future for Google Glass it is in the enterprise world, the consume
 [Google Glass device treat autism](https://www.nytimes.com/2019/07/17/technology/google-glass-device-treat-autism.html)
 
 
-##Phonebloks / Google's Project Ara
+**Phonebloks / Google's Project Ara**
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Phonebloks_open.jpg/1920px-Phonebloks_open.jpg)
 
@@ -50,7 +50,7 @@ Sources:
 [Building blocks - How Project Ara is reinventing the smartphone](https://www.theverge.com/2014/4/15/5615880/building-blocks-how-project-ara-is-reinventing-the-smartphone)
 
 
-##Google+
+**Google+**
 
 ![alt text](https://i1.wp.com/www.the-vital-edge.com/wp-content/uploads/2019/01/Google-Plus-Fall.jpg?fit=800%2C600&ssl=1)
 
